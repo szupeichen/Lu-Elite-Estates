@@ -2,7 +2,7 @@
   "name": "lu-elite-estates",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/szupeichen/Lu-Elite-Estates.git",
+  "homepage": "https://szupeichen.github.io/Lu-Elite-Estates/",
   "type": "module",
   "scripts": {
     "dev": "vite",
